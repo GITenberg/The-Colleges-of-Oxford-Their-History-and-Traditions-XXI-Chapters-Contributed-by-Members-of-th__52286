@@ -1,0 +1,26 @@
+_repo: The-Colleges-of-Oxford-Their-History-and-Traditions-XXI-Chapters-Contributed-by-Members-of-th__52286
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Clark, Andrew
+    birthdate: 1856
+    deathdate: 1922
+    gutenberg_agent_id: '44468'
+    url: http://www.gutenberg.org/2009/agents/44468
+description: ''
+gutenberg_issued: '2016-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52286'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'University of Oxford -- History'
+- !lcc 'LF'
+- GITenberg
+title: 'The Colleges of Oxford: Their History and Traditions
+
+  XXI Chapters Contributed by Members of the Colleges'
+url: http://www.gutenberg.org/ebooks/52286
